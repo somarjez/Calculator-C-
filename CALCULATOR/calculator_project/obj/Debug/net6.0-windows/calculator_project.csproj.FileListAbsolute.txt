@@ -1,0 +1,115 @@
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\bin\Debug\net6.0-windows\calculator_project.exe
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\bin\Debug\net6.0-windows\calculator_project.deps.json
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\bin\Debug\net6.0-windows\calculator_project.runtimeconfig.json
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\bin\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\bin\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.Form1.resources
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.GenerateResource.cache
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfoInputs.cache
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfo.cs
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\refint\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\calculator_project.genruntimeconfig.cache
+C:\Users\User1\Source\Repos\calculator_project\calculator_project\obj\Debug\net6.0-windows\ref\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\bin\Debug\net6.0-windows\calculator_project.exe
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\bin\Debug\net6.0-windows\calculator_project.deps.json
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\bin\Debug\net6.0-windows\calculator_project.runtimeconfig.json
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\bin\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\bin\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.Form1.resources
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.GenerateResource.cache
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfoInputs.cache
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfo.cs
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\refint\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\calculator_project.genruntimeconfig.cache
+C:\Users\User1\Source\Repos\calculator_project_updated\calculator_project\obj\Debug\net6.0-windows\ref\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.exe
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.deps.json
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.runtimeconfig.json
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.Form1.resources
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.GenerateResource.cache
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfoInputs.cache
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfo.cs
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\refint\calculator_project.dll
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.genruntimeconfig.cache
+C:\Users\User1\Source\Repos\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\ref\calculator_project.dll
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.exe
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.deps.json
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.runtimeconfig.json
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.dll
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\bin\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.Form1.resources
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.GenerateResource.cache
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfoInputs.cache
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfo.cs
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.dll
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\refint\calculator_project.dll
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.genruntimeconfig.cache
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\ref\calculator_project.dll
+C:\Users\zykep\OneDrive\Desktop\calculator_project_updated_1\calculator_project\obj\Debug\net6.0-windows\calculator_project.Properties.Resources.resources
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\bin\Debug\net6.0-windows\calculator_project.exe
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\bin\Debug\net6.0-windows\calculator_project.deps.json
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\bin\Debug\net6.0-windows\calculator_project.runtimeconfig.json
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\bin\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\bin\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.Form1.resources
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.Properties.Resources.resources
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.GenerateResource.cache
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfoInputs.cache
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfo.cs
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\refint\calculator_project.dll
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\calculator_project.genruntimeconfig.cache
+C:\Users\User1\Downloads\calculator_project_updated_1 - Copy\calculator_project\obj\Debug\net6.0-windows\ref\calculator_project.dll
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\bin\Debug\net6.0-windows\calculator_project.exe
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\bin\Debug\net6.0-windows\calculator_project.deps.json
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\bin\Debug\net6.0-windows\calculator_project.runtimeconfig.json
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\bin\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\bin\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.Form1.resources
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.Properties.Resources.resources
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.GenerateResource.cache
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfoInputs.cache
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfo.cs
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.dll
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\refint\calculator_project.dll
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\calculator_project.genruntimeconfig.cache
+C:\Users\User1\Source\Repos\FINALIZED\calculator_project\obj\Debug\net6.0-windows\ref\calculator_project.dll
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\bin\Debug\net6.0-windows\calculator_project.exe
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\bin\Debug\net6.0-windows\calculator_project.deps.json
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\bin\Debug\net6.0-windows\calculator_project.runtimeconfig.json
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\bin\Debug\net6.0-windows\calculator_project.dll
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\bin\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.Properties.Resources.resources
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.GenerateResource.cache
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfoInputs.cache
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.AssemblyInfo.cs
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.csproj.CoreCompileInputs.cache
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.dll
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\refint\calculator_project.dll
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.pdb
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\calculator_project.genruntimeconfig.cache
+C:\Users\jramo\Downloads\CALCULATOR-20250203T230814Z-001\CALCULATOR\calculator_project\obj\Debug\net6.0-windows\ref\calculator_project.dll

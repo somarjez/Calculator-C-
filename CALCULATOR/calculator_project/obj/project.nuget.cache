@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "24n/87gXN3M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jramo\\Downloads\\CALCULATOR-20250203T230814Z-001\\CALCULATOR\\calculator_project\\calculator_project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jramo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\jramo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
